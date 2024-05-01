@@ -1,0 +1,13 @@
+.block {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border: 2px solid #facaff;
+    box-shadow: 0 2px 3px 1px #fa52d3;
+    border-radius: 15px;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 24px;
+}
